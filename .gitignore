@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+workspace/
+dist/
+*.wav
+*.mp3
+*.mp4
+*.mov
+*.mkv
+*.drp

@@ -1,0 +1,16 @@
+{
+  "project_name": "Example Documentary",
+  "media_paths": ["D:/Media/example"],
+  "topic": "The people and decisions behind a community event",
+  "platform": "YouTube",
+  "target_duration_seconds": 480,
+  "aspect_ratio": "16:9",
+  "language": "English",
+  "editing_preferences": {
+    "profile": "custom",
+    "notes": "Restrained pace, natural sound, J-cuts, no narration"
+  },
+  "tts": {
+    "enabled": false
+  }
+}
