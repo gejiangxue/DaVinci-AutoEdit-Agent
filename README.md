@@ -274,6 +274,11 @@ uses its documented best-practice profile.
 - After the cut, compare script, timeline, and inventory to produce an
   actionable pickup-shot report.
 
+## Follow The Creator / 关注作者
+
+- 抖音 / Douyin：`83476153115`
+- B 站 / Bilibili：[space.bilibili.com/38505960](https://space.bilibili.com/38505960?spm_id_from=333.1007.0.0)
+
 ## Credits / 致谢
 
 The Resolve integration guidance is designed for
