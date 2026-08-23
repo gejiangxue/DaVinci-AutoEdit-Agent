@@ -1,0 +1,4 @@
+interface:
+  display_name: "JianYing AutoEdit Agent"
+  short_description: "JianYing agent for talking-head edits and packaged drafts"
+  default_prompt: "Use $jianying-autoedit-agent to edit my media into a reviewed JianYing draft with natural pacing, readable captions, and restrained packaging."
